@@ -1,0 +1,23 @@
+﻿  源.cpp
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(31): error C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+  c:\vs\vc\tools\msvc\14.11.25503\include\graphics.h(78): note: 参见“setfont”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(35): error C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+  c:\vs\vc\tools\msvc\14.11.25503\include\graphics.h(78): note: 参见“setfont”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(39): error C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+  c:\vs\vc\tools\msvc\14.11.25503\include\graphics.h(78): note: 参见“setfont”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(43): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(50): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(67): error C3861: “sprintf”: 找不到标识符
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(98): error C3861: “sprintf”: 找不到标识符
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(65): error C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+  c:\vs\vc\tools\msvc\14.11.25503\include\graphics.h(78): note: 参见“setfont”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(132): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(134): error C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+  c:\vs\vc\tools\msvc\14.11.25503\include\graphics.h(78): note: 参见“setfont”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(141): error C2731: “main”: 无法重载函数
+  c:\users\dfsfd\source\repos\project19\project19\源.cpp(140): note: 参见“main”的声明
+c:\users\dfsfd\source\repos\project19\project19\源.cpp(147): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明

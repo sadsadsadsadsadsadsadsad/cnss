@@ -1,0 +1,11 @@
+﻿  源.cpp
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(25): warning C4305: “=”: 从“double”到“float”截断
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(63): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(61): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+c:\users\dfsfd\source\repos\飞机大战\飞机大战\源.cpp(84): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  飞机大战.vcxproj -> C:\Users\dfsfd\source\repos\飞机大战\Debug\飞机大战.exe

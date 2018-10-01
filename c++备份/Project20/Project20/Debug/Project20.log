@@ -1,0 +1,18 @@
+﻿  源.cpp
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 4 拥有了类型“double”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 5 拥有了类型“double”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 6 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 7 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 8 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 9 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 10 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(55): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 11 拥有了类型“int”
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(180): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(204): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(295): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(296): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\project20\project20\源.cpp(301): warning C4101: “brick_top”: 未引用的局部变量
+  Project20.vcxproj -> C:\Users\dfsfd\source\repos\Project20\Debug\Project20.exe

@@ -1,0 +1,12 @@
+﻿  源.cpp
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(146): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(147): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(153): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(158): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(159): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(164): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dfsfd\source\repos\双人弹球\双人弹球\源.cpp(165): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  双人弹球.vcxproj -> C:\Users\dfsfd\source\repos\双人弹球\Debug\双人弹球.exe

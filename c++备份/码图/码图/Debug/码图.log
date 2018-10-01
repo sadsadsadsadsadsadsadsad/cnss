@@ -1,0 +1,3 @@
+﻿  类.cpp
+c:\users\dfsfd\source\repos\码图\码图\类.cpp(70): warning C4715: “Circle::judge”: 不是所有的控件路径都返回值
+  码图.vcxproj -> C:\Users\dfsfd\source\repos\码图\Debug\码图.exe
